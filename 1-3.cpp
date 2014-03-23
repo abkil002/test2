@@ -2,7 +2,7 @@
 
 #include <ctime>    // 무작위적인 수를 뽑기 위한 헤더파일
 using namespace std;
-
+//diff test
 //testing
 //new branch testing
 int main()
