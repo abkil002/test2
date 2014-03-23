@@ -4,7 +4,7 @@
 using namespace std;
 
 //testing
-//new branch test
+//new branch testing
 int main()
 {
 
